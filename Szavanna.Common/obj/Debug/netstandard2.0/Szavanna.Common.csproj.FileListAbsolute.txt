@@ -1,0 +1,4 @@
+C:\Users\Kitti\source\repos\Szavanna.Common\Szavanna.Common\obj\Debug\netstandard2.0\Szavanna.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kitti\source\repos\Szavanna.Common\Szavanna.Common\obj\Debug\netstandard2.0\Szavanna.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kitti\source\repos\Szavanna.Common\Szavanna.Common\obj\Debug\netstandard2.0\Szavanna.Common.AssemblyInfoInputs.cache
+C:\Users\Kitti\source\repos\Szavanna.Common\Szavanna.Common\obj\Debug\netstandard2.0\Szavanna.Common.AssemblyInfo.cs
