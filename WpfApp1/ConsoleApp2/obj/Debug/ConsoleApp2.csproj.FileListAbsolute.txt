@@ -1,0 +1,7 @@
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\bin\Debug\ConsoleApp2.dll.config
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\bin\Debug\ConsoleApp2.dll
+C:\Users\Kitti\source\repos\WpfApp1\ConsoleApp2\obj\Debug\ConsoleApp2.dll

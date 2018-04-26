@@ -1,0 +1,15 @@
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\bin\Debug\Szavanna.UI.exe.config
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\bin\Debug\Szavanna.UI.exe
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\bin\Debug\Szavanna.UI.pdb
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.csprojResolveAssemblyReference.cache
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\App.g.cs
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI_MarkupCompile.cache
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI_MarkupCompile.lref
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\MainWindow.baml
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.g.resources
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.Properties.Resources.resources
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.csproj.GenerateResource.cache
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.csproj.CoreCompileInputs.cache
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.exe
+C:\Users\Kitti\source\repos\Savanna\Szavanna.UI\obj\Debug\Szavanna.UI.pdb

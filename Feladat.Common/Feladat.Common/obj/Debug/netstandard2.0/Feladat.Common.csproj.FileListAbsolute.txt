@@ -1,0 +1,9 @@
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\obj\Debug\netstandard2.0\Feladat.Common.csprojResolveAssemblyReference.cache
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\obj\Debug\netstandard2.0\Feladat.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\obj\Debug\netstandard2.0\Feladat.Common.AssemblyInfoInputs.cache
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\obj\Debug\netstandard2.0\Feladat.Common.AssemblyInfo.cs
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\bin\Debug\netstandard2.0\Feladat.Common.deps.json
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\bin\Debug\netstandard2.0\Feladat.Common.dll
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\bin\Debug\netstandard2.0\Feladat.Common.pdb
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\obj\Debug\netstandard2.0\Feladat.Common.dll
+C:\Users\Kitti\source\repos\Savanna\Feladat.Common\Feladat.Common\obj\Debug\netstandard2.0\Feladat.Common.pdb

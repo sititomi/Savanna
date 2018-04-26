@@ -4,63 +4,87 @@ namespace Szavanna.Common
 {
     public class Organism
     {
-        //változó
-        private int age;
-        private int lifetime;
-        private int vitality;
-        private int hydratation;
-        private int reproduction;
+        struct Position
+            {
+               public int posX; //a pozicio x koordinátája
+               public int posY; //y koordináta
 
+            internal Point(){ // kezdő érték, kiindulási pont
+                this.posX = posX;
+                this.posY = posY;
+            }
+
+            }
+        //változó
+        private int Age;
+        private int Lifetime;
+        private int Vitality;
+        private int Hydratation;
+        private int Reproduction; 
+        private bool Exist; //létezés
         //tulajdonság
         public int Age
         {
-            get { return age; }
+            get { return Age; }
             internal set
             {
                 if (value > 0)
                 {
-                    age = value;
+                    Age = value;
                 }
             }
         }
 
         // metódus
-        public int GetAge()
-        {
-            return 0;
-        }
-
-        
 
         public int ExpectedLifetime
         {
-            get { return lifetime; }
-            internal set
-  
+            get { return ExpectedLifetime; }
+            internal set{Age=value} 
         }
 
         public int Vitality()
         {
-            get { return vitality; }
-            internal set
+            get { return Vitality; }
+            internal set{
+            if(Vitality<=0)
+            {
+             Exist=0; //DEAD-mindenképp
+            }
+          
+            }
 }
 
     }
 
         public int Hydratation()
         {
-            get { return hydratation; }
-            internal set
+            get {return Hydratation;}
+
+            //internal set
         }
 
         public int Reproduction()
         {
-            get { return reproduction; }
-            internal set
+            get {return Reproduction;}
+            //internal set
 
         }
-
     }
-
-    
+    public void Movement();
+    {
+        switch(char)
+                {
+                    case 'w':  /*MOZGÁS, ELŐRE STB.*/
+                    break;
+                    case 'a':
+                    break;
+                    case 's':
+                    break;
+                    case 'd':
+                    break;
+                    default:
+                    break;
+                  }
+    }
 }

@@ -8,4 +8,5 @@ namespace Szavanna.Common
     {
         Male, Female
     }
+
 }
