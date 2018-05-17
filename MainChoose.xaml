@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="" Height="600" Width="800" WindowStyle="None">
+    <Grid >
+        <Image Source="plan.jpg" Stretch="UniformToFill"/>
+        <Button Margin="99,505,467,10" Click="Button_Click_1" FontSize="22" Background ="SandyBrown" FontFamily="Segoe Print" FontWeight="Bold" >Lion</Button>
+        <Button Margin="452,505,114,10" Click="Button_Click" FontSize="22" Background ="LightGray" FontFamily="Segoe Print" FontWeight="Bold">Gazelle</Button>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.49,0.49" Margin="134,55,0,0" />
+        <Image Source="cute_lion.png" Stretch="None" Margin="99,298,467,69"/>
+        <Image Source="cute_gazelle.png" Stretch="None" Margin="448,302,115,70" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.052"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label x:Name="label" Content="Choose your animal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="181,55,0,0" Height="84" Width="446"  FontWeight="Bold" FontSize="48" FontFamily="Sitka Heading"/>
+    </Grid>
+</Window>
