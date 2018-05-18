@@ -46,6 +46,8 @@ namespace WpfApp2
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("You choose: Lion", "Choose");
+            image = new Image { Source = new BitmapImage(new Uri(@"/AddControlsThroughClass;component/images/Map.png", UriKind.Relative)) };
+            image.Stretch = Stretch.Uniform;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
