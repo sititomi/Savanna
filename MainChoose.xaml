@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp2"
         mc:Ignorable="d"
-        Title="" Height="600" Width="800" WindowStyle="None">
+        Title="" Height="600" Width="800" WindowStyle="None"
+         ResizeMode="CanResize" AllowsTransparency="False">
     <Grid >
         <Image Source="plan.jpg" Stretch="UniformToFill"/>
         <Button Margin="99,505,467,10" Click="Button_Click_1" FontSize="22" Background ="SandyBrown" FontFamily="Segoe Print" FontWeight="Bold" >Lion</Button>
