@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:WpfApp3"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+         ResizeMode="CanResize" AllowsTransparency="False">
     <Grid>
 
         <Image Source="szavanna-2.jpg" Stretch="UniformToFill" />
